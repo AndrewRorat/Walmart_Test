@@ -1,0 +1,14 @@
+ompiled source #
+###################
+*.com
+*.class
+*.dll
+*.o
+*.so
+
+# Intellij Idea generated files #
+######################
+*.idea
+*.iml
+*.xml
+
